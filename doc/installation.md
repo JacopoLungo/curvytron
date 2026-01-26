@@ -14,6 +14,8 @@ __Install dependencies__
 
     npm install
 
+Answer !1
+
 This will install npm packages and bower dependencies. You may see warnings about optional dependencies (like `usage`) failing to build - this is expected and won't affect functionality.
 
 __Create config file__
